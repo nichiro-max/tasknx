@@ -1,0 +1,8 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+django-rest-auth
+channels
+requests
+gunicorn
